@@ -16,6 +16,7 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 public class ListActivity extends AppCompatActivity {
+    //asdfghjkl;
     ImageHolder holder;
     ListFragment recyclerFragment;
     ViewPagerFragment pagerHolderFragment;

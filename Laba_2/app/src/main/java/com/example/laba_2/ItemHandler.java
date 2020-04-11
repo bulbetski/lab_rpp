@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ItemHandler {
-    static ItemHandler instance;
+    private static ItemHandler instance;
     List<Item> items;
     private  ItemHandler(List<Item> items) {
         this.items = new ArrayList<Item>();
